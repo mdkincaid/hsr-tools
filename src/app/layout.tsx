@@ -5,6 +5,7 @@ import "./globals.css";
 import "@mantine/core/styles.css";
 
 import { ColorSchemeScript, MantineProvider, Button, Space, createTheme } from "@mantine/core";
+import Header from "@/components/Header/Header";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -30,11 +31,7 @@ export default function RootLayout({
       </head>
       <body className={inter.className}>
         <MantineProvider defaultColorScheme="dark" theme={theme}>
-          <nav color="dark.8" className="flex gap-4">
-            <Button component={Link} href="/">Home</Button>
-            <Button component={Link} href="/tools/aventurine-calc">Aventurine Calc</Button>
-            <Button component={Link} href="/tools/tingyun-calc">Tingyun Calc</Button>
-          </nav>
+          <Header />
           {children}
           </MantineProvider>
       </body>
