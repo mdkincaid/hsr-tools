@@ -1,6 +1,15 @@
 "use client";
 
-import { Checkbox, NumberInput, Slider, Text } from "@mantine/core";
+import marks from "@/utils/mainstatSliderMarks";
+import getActualNumberOfMainstats from "@/utils/numberOfMainstats";
+import {
+  Checkbox,
+  Divider,
+  NumberFormatter,
+  NumberInput,
+  Slider,
+  Text,
+} from "@mantine/core";
 import { useState } from "react";
 
 export default function Page() {
@@ -11,17 +20,36 @@ export default function Page() {
   const [isBelobogActive, setIsBelobogActive] = useState<boolean>(false);
   const [mainstatAmt, setMainstatAmt] = useState(50);
   const [substatValue, setSubstatValue] = useState<string | number>("");
+  const charBaseDEF = 655;
+  const traceDEF = 0.35;
+  const belobogDEF = 0.15;
+  const knightDEF = 0.15;
+  const mainstatDEF = 0.54;
 
-  const marks = [
-    { value: 0, label: "0" },
-    { value: 25, label: "1" },
-    { value: 50, label: "2" },
-    { value: 75, label: "3" },
-    { value: 100, label: "4" },
-  ];
+  function getMissingDEFPercent() {
+    let baseDEF = (lcBaseDEF as number) + charBaseDEF;
+    let percentDifference = -(baseDEF - (targetDEF as number)) / baseDEF;
+    let defFromMainstats =
+      getActualNumberOfMainstats(mainstatAmt) * mainstatDEF;
+    let currentDEFPercent =
+      traceDEF +
+      (lcEffectDEF as number) / 100 +
+      (isBelobogActive ? belobogDEF : 0) +
+      (isKnightActive ? knightDEF : 0) +
+      defFromMainstats;
+
+    return (percentDifference - currentDEFPercent) * 100;
+  }
+
+  function getNumberOfSubstatRolls() {
+    let missingDEFPercent = getMissingDEFPercent() / 100;
+    let defSubstatValue = (substatValue as number) / 100;
+
+    return missingDEFPercent / defSubstatValue;
+  }
 
   return (
-    <div>
+    <div className="flex flex-col gap-5 w-2/4">
       <NumberInput
         label="Target DEF"
         placeholder="Target DEF"
@@ -61,30 +89,34 @@ export default function Page() {
         value={mainstatAmt}
         onChange={setMainstatAmt}
         step={25}
-        marks={marks}
+        marks={marks()}
         label={null}
       />
+      <Divider size="xl" />
       <NumberInput
         label="DEF% Substat Value"
         placeholder="DEF% Substat Value"
         value={substatValue}
         onChange={setSubstatValue}
+        suffix="%"
         hideControls
       />
+      <Divider size="xl" />
+      <div>
+        Missing DEF%:
+        <NumberFormatter
+          value={targetDEF ? getMissingDEFPercent() : ""}
+          decimalScale={2}
+          suffix="%"
+        ></NumberFormatter>
+      </div>
+      <div>
+        Number of DEF substat rolls:
+        <NumberFormatter
+          value={getNumberOfSubstatRolls()}
+          decimalScale={2}
+        ></NumberFormatter>
+      </div>
     </div>
   );
 }
-
-/*
-  target def: number input
-  lc base def: number input
-  lc effect def%: number input %
-  2pc knight?: checkbox
-  belobog?: checkbox
-  # of DEF mainstats: dropdown (1, 2, 3, 4)
-
-  missing def%: number output %
-  DEF% substat value: number input %
-  # of def subs: number output
-
-  */
