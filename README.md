@@ -1,3 +1,6 @@
+Using this project as a means to create tools I can use while learning React, Next.js, TailwindCSS and Mantine
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
