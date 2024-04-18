@@ -4,9 +4,14 @@ import Link from "next/link";
 import "./globals.css";
 import "@mantine/core/styles.css";
 
-import { ColorSchemeScript, MantineProvider, Button } from "@mantine/core";
+import { ColorSchemeScript, MantineProvider, Button, Space, createTheme } from "@mantine/core";
 
 const inter = Inter({ subsets: ["latin"] });
+
+const theme = createTheme({
+  primaryColor: 'cyan',
+
+})
 
 export const metadata: Metadata = {
   title: "HSR-Tools",
@@ -24,8 +29,8 @@ export default function RootLayout({
         <ColorSchemeScript />
       </head>
       <body className={inter.className}>
-        <MantineProvider defaultColorScheme="dark">
-          <nav>
+        <MantineProvider defaultColorScheme="dark" theme={theme}>
+          <nav color="dark.8" className="flex gap-4">
             <Button component={Link} href="/">Home</Button>
             <Button component={Link} href="/tools/aventurine-calc">Aventurine Calc</Button>
             <Button component={Link} href="/tools/tingyun-calc">Tingyun Calc</Button>
