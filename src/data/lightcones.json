@@ -1,0 +1,770 @@
+[
+    {
+      "Lightcone": "Inherently Unjust Destiny",
+      "Path": "Preservation",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 423,
+      "BaseDEF": 662
+    },
+    {
+      "Lightcone": "Moment of Victory",
+      "Path": "Preservation",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 476,
+      "BaseDEF": 595
+    },
+    {
+      "Lightcone": "She Already Shut Her Eyes",
+      "Path": "Preservation",
+      "Rarity": 5,
+      "BaseHP": 1270,
+      "BaseATK": 423,
+      "BaseDEF": 529
+    },
+    {
+      "Lightcone": "Texture of Memories",
+      "Path": "Preservation",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 423,
+      "BaseDEF": 529
+    },
+    {
+      "Lightcone": "In the Name of the World",
+      "Path": "Nihility",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 582,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Patience Is All You Need",
+      "Path": "Nihility",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 582,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Incessant Rain",
+      "Path": "Nihility",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 582,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Reforged Remembrance",
+      "Path": "Nihility",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 582,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Along the Passing Shore",
+      "Path": "Nihility",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 635,
+      "BaseDEF": 397
+    },
+    {
+      "Lightcone": "Solitary Healing",
+      "Path": "Nihility",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 529,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Baptism of Pure Thought",
+      "Path": "Hunt",
+      "Rarity": 5,
+      "BaseHP": 952,
+      "BaseATK": 582,
+      "BaseDEF": 529
+    },
+    {
+      "Lightcone": "In the Night",
+      "Path": "Hunt",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 582,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Sleep Like the Dead",
+      "Path": "Hunt",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 582,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Worrisome, Blissful",
+      "Path": "Hunt",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 582,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Cruising in the Stellar Sea",
+      "Path": "Hunt",
+      "Rarity": 5,
+      "BaseHP": 952,
+      "BaseATK": 529,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Past Self in Mirror",
+      "Path": "Harmony",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 529,
+      "BaseDEF": 529
+    },
+    {
+      "Lightcone": "But the Battle Isn't Over",
+      "Path": "Harmony",
+      "Rarity": 5,
+      "BaseHP": 1164,
+      "BaseATK": 529,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Earthly Escapade",
+      "Path": "Harmony",
+      "Rarity": 5,
+      "BaseHP": 1164,
+      "BaseATK": 529,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Before Dawn",
+      "Path": "Erudition",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 582,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "An Instant Before A Gaze",
+      "Path": "Erudition",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 582,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Night on the Milky Way",
+      "Path": "Erudition",
+      "Rarity": 5,
+      "BaseHP": 1164,
+      "BaseATK": 582,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Something Irreplaceable",
+      "Path": "Destruction",
+      "Rarity": 5,
+      "BaseHP": 1164,
+      "BaseATK": 582,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "I Shall Be My Own Sword",
+      "Path": "Destruction",
+      "Rarity": 5,
+      "BaseHP": 1164,
+      "BaseATK": 582,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Brighter Than the Sun",
+      "Path": "Destruction",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 635,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "On the Fall of an Aeon",
+      "Path": "Destruction",
+      "Rarity": 5,
+      "BaseHP": 1058,
+      "BaseATK": 529,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "The Unreachable Side",
+      "Path": "Destruction",
+      "Rarity": 5,
+      "BaseHP": 1270,
+      "BaseATK": 582,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Night of Fright",
+      "Path": "Abundance",
+      "Rarity": 5,
+      "BaseHP": 1164,
+      "BaseATK": 476,
+      "BaseDEF": 529
+    },
+    {
+      "Lightcone": "Time Waits for No One",
+      "Path": "Abundance",
+      "Rarity": 5,
+      "BaseHP": 1270,
+      "BaseATK": 476,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Echoes of the Coffin",
+      "Path": "Abundance",
+      "Rarity": 5,
+      "BaseHP": 1164,
+      "BaseATK": 582,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "This Is Me!",
+      "Path": "Preservation",
+      "Rarity": 4,
+      "BaseHP": 846,
+      "BaseATK": 370,
+      "BaseDEF": 529
+    },
+    {
+      "Lightcone": "Concert for Two",
+      "Path": "Preservation",
+      "Rarity": 4,
+      "BaseHP": 953,
+      "BaseATK": 370,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Day One of My New Life",
+      "Path": "Preservation",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 370,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Destiny's Threads Forewoven",
+      "Path": "Preservation",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 370,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "We Are Wildfire",
+      "Path": "Preservation",
+      "Rarity": 4,
+      "BaseHP": 740,
+      "BaseATK": 476,
+      "BaseDEF": 463
+    },
+    {
+      "Lightcone": "Trend of the Universal Market",
+      "Path": "Preservation",
+      "Rarity": 4,
+      "BaseHP": 1058,
+      "BaseATK": 370,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Landau's Choise",
+      "Path": "Preservation",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 423,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Good Night and Sleep Well",
+      "Path": "Nihility",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Eyes of the Prey",
+      "Path": "Nihility",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Resolution Shines As Pearls of Sweat",
+      "Path": "Nihility",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Fermata",
+      "Path": "Nihility",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Before the Tutorial Mission Starts",
+      "Path": "Nihility",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "We Will Meet Again",
+      "Path": "Nihility",
+      "Rarity": 4,
+      "BaseHP": 846,
+      "BaseATK": 529,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "It's Showtime",
+      "Path": "Nihility",
+      "Rarity": 4,
+      "BaseHP": 1058,
+      "BaseATK": 476,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "River Flows in Spring",
+      "Path": "Hunt",
+      "Rarity": 4,
+      "BaseHP": 846,
+      "BaseATK": 476,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Only Silence Remains",
+      "Path": "Hunt",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Swordplay",
+      "Path": "Hunt",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Subscribe for More!",
+      "Path": "Hunt",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Final Victor",
+      "Path": "Hunt",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Return to Darkness",
+      "Path": "Hunt",
+      "Rarity": 4,
+      "BaseHP": 846,
+      "BaseATK": 529,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Memories of the Past",
+      "Path": "Harmony",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 423,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Dance! Dance! Dance!",
+      "Path": "Harmony",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 423,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Past and Future",
+      "Path": "Harmony",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 423,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Dreamville Adventure",
+      "Path": "Harmony",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 423,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Planetary Rendezvous",
+      "Path": "Harmony",
+      "Rarity": 4,
+      "BaseHP": 1058,
+      "BaseATK": 423,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Carve the Moon, Weave the Clouds",
+      "Path": "Harmony",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Make the World Clamor",
+      "Path": "Erudition",
+      "Rarity": 4,
+      "BaseHP": 846,
+      "BaseATK": 476,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Geniuses' Repose",
+      "Path": "Erudition",
+      "Rarity": 4,
+      "BaseHP": 846,
+      "BaseATK": 476,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "The Seriousness of Breakfast",
+      "Path": "Erudition",
+      "Rarity": 4,
+      "BaseHP": 846,
+      "BaseATK": 476,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "The Birth of the Self",
+      "Path": "Erudition",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "The Day The Cosmos Fell",
+      "Path": "Erudition",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Today Is Another Peaceful Day",
+      "Path": "Erudition",
+      "Rarity": 4,
+      "BaseHP": 846,
+      "BaseATK": 529,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Under the Blue Sky",
+      "Path": "Destruction",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Woof! Walk Time!",
+      "Path": "Destruction",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Indelible Promise",
+      "Path": "Destruction",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 476,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "The Moles Welcome You",
+      "Path": "Destruction",
+      "Rarity": 4,
+      "BaseHP": 1058,
+      "BaseATK": 476,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "A Secret Vow",
+      "Path": "Destruction",
+      "Rarity": 4,
+      "BaseHP": 1058,
+      "BaseATK": 476,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Flames Afar",
+      "Path": "Destruction",
+      "Rarity": 4,
+      "BaseHP": 1058,
+      "BaseATK": 476,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Nowhere to Run",
+      "Path": "Destruction",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 529,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Warmth Shortens Cold Nights",
+      "Path": "Abundance",
+      "Rarity": 4,
+      "BaseHP": 1058,
+      "BaseATK": 370,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Shared Feeling",
+      "Path": "Abundance",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 423,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Perfect Timing",
+      "Path": "Abundance",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 423,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Quid Pro Quo",
+      "Path": "Abundance",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 423,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Hey, Over Here",
+      "Path": "Abundance",
+      "Rarity": 4,
+      "BaseHP": 952,
+      "BaseATK": 423,
+      "BaseDEF": 396
+    },
+    {
+      "Lightcone": "Post-Op Conversation",
+      "Path": "Abundance",
+      "Rarity": 4,
+      "BaseHP": 1058,
+      "BaseATK": 423,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "What Is Real?",
+      "Path": "Abundance",
+      "Rarity": 4,
+      "BaseHP": 1058,
+      "BaseATK": 423,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Amber",
+      "Path": "Preservation",
+      "Rarity": 3,
+      "BaseHP": 846,
+      "BaseATK": 264,
+      "BaseDEF": 330
+    },
+    {
+      "Lightcone": "Defense",
+      "Path": "Preservation",
+      "Rarity": 3,
+      "BaseHP": 952,
+      "BaseATK": 264,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Pioneering",
+      "Path": "Preservation",
+      "Rarity": 3,
+      "BaseHP": 952,
+      "BaseATK": 264,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Void",
+      "Path": "Nihility",
+      "Rarity": 3,
+      "BaseHP": 846,
+      "BaseATK": 317,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Loop",
+      "Path": "Nihility",
+      "Rarity": 3,
+      "BaseHP": 846,
+      "BaseATK": 317,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Hidden Shadow",
+      "Path": "Nihility",
+      "Rarity": 3,
+      "BaseHP": 846,
+      "BaseATK": 317,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Arrows",
+      "Path": "Hunt",
+      "Rarity": 3,
+      "BaseHP": 846,
+      "BaseATK": 317,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Adversarial",
+      "Path": "Hunt",
+      "Rarity": 3,
+      "BaseHP": 840,
+      "BaseATK": 370,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Darting Arrow",
+      "Path": "Hunt",
+      "Rarity": 3,
+      "BaseHP": 740,
+      "BaseATK": 370,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Chorus",
+      "Path": "Harmony",
+      "Rarity": 3,
+      "BaseHP": 846,
+      "BaseATK": 317,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Meshing Cogs",
+      "Path": "Harmony",
+      "Rarity": 3,
+      "BaseHP": 846,
+      "BaseATK": 317,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Mediation",
+      "Path": "Harmony",
+      "Rarity": 3,
+      "BaseHP": 846,
+      "BaseATK": 317,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Data Bank",
+      "Path": "Erudition",
+      "Rarity": 3,
+      "BaseHP": 740,
+      "BaseATK": 370,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Passkey",
+      "Path": "Erudition",
+      "Rarity": 3,
+      "BaseHP": 740,
+      "BaseATK": 370,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Sagacity",
+      "Path": "Erudition",
+      "Rarity": 3,
+      "BaseHP": 740,
+      "BaseATK": 370,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Collapsing Sky",
+      "Path": "Destruction",
+      "Rarity": 3,
+      "BaseHP": 846,
+      "BaseATK": 370,
+      "BaseDEF": 198
+    },
+    {
+      "Lightcone": "Shattered Home",
+      "Path": "Destruction",
+      "Rarity": 3,
+      "BaseHP": 846,
+      "BaseATK": 370,
+      "BaseDEF": 198
+    },
+    {
+      "Lightcone": "Mutual Demise",
+      "Path": "Destruction",
+      "Rarity": 3,
+      "BaseHP": 846,
+      "BaseATK": 370,
+      "BaseDEF": 198
+    },
+    {
+      "Lightcone": "Cornucopia",
+      "Path": "Abundance",
+      "Rarity": 3,
+      "BaseHP": 952,
+      "BaseATK": 264,
+      "BaseDEF": 264
+    },
+    {
+      "Lightcone": "Fine Fruit",
+      "Path": "Abundance",
+      "Rarity": 3,
+      "BaseHP": 952,
+      "BaseATK": 317,
+      "BaseDEF": 198
+    },
+    {
+      "Lightcone": "Multiplication",
+      "Path": "Abundance",
+      "Rarity": 3,
+      "BaseHP": 952,
+      "BaseATK": 317,
+      "BaseDEF": 198
+    }
+   ]

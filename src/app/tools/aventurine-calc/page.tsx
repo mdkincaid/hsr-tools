@@ -3,6 +3,7 @@
 import marks from "@/utils/mainstatSliderMarks";
 import getActualNumberOfMainstats from "@/utils/numberOfMainstats";
 import {
+  Center,
   Checkbox,
   Divider,
   Group,
@@ -12,6 +13,7 @@ import {
   Space,
   Stack,
   Text,
+  Title,
 } from "@mantine/core";
 import { useState } from "react";
 
@@ -54,7 +56,14 @@ export default function Page() {
   return (
     <div>
       <div className="w-2/4 border rounded-xl p-3 m-auto text-xs">
-        The purpose of this calculator is to get a rough idea for how much DEF% is necessary in order to maximize Aventurine&apos;s A2 Crit Rate buff.
+        <Center>
+        <Title order={2}>Aventurine A2 Calculator</Title>
+        </Center>
+      </div>
+      <Space h="xs" />
+      <div className="w-2/4 border rounded-xl p-3 m-auto text-xs">
+        The purpose of this calculator is to get a rough idea for how much DEF%
+        is necessary in order to maximize Aventurine&apos;s A2 Crit Rate buff.
       </div>
       <Space h="xs" />
       <div className="w-2/4 border rounded-xl p-3 m-auto">
