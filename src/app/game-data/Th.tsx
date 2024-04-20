@@ -1,5 +1,5 @@
 import { Center, rem, Group, Text, UnstyledButton, Table } from "@mantine/core";
-import { TbSelector, TbChevronDown, TbChevronUp, TbSearch } from "react-icons/tb";
+import { TbSelector, TbChevronDown, TbChevronUp } from "react-icons/tb";
 
 interface ThProps {
     children: React.ReactNode;
@@ -15,11 +15,11 @@ export default function Th({children, reversed, sorted, onSort}: ThProps) {
         <Table.Th>
             <UnstyledButton onClick={onSort}>
                 <Group justify="space-between">
-                    <Text fw={500} fz="sm">
+                    <Text>
                         {children}
                     </Text>
                     <Center>
-                        <Icon style={{ width: rem(16), height: rem(16) }} />
+                        <Icon  />
                     </Center>
                 </Group>
             </UnstyledButton>

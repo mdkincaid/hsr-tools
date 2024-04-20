@@ -6,8 +6,8 @@ import LightconeTable from './lightcones';
 
 export default function Data() {
   return (
-    <Tabs variant="outline" defaultValue="characters">
-      <Tabs.List>
+    <Tabs  className='w-4/5 m-auto' variant="outline" defaultValue="characters">
+      <Tabs.List className='m-4'>
         <Tabs.Tab value="characters">
           Characters
         </Tabs.Tab>
