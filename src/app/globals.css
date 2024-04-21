@@ -34,3 +34,8 @@ body {
     text-wrap: balance;
   }
 }
+
+.active-nav-tab {
+  border-bottom: 1px solid #3bc9db;
+  color: #3bc9db;
+}
